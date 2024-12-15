@@ -9,7 +9,9 @@ I’m passionate about designing high-performance analog circuits and turning co
 Design and optimize analog/mixed-signal circuits.
 Simulate and analyze circuit performance to ensure real-world accuracy.
 Work on power management, amplifiers, ADC/DAC, and more.
+
 💡 What Drives Me:
+
 I love tackling challenging problems and collaborating with like-minded individuals to build innovative solutions. My focus is on creating designs that not only meet requirements but also inspire progress in the analog world.
 
 📚 Skills & Tools:
