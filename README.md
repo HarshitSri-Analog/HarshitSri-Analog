@@ -1,4 +1,4 @@
-👋 Hi there! I'm Harshit Srivastava
+# 👋 Hi there! I'm Harshit Srivastava
 
 🔧 Analog Design Engineer | Problem Solver | Innovator
 
