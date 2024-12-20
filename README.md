@@ -29,7 +29,6 @@ Let’s connect and collaborate on exciting projects that shape the future of an
 
 📫 How to reach me: **harshitsri117@gmail.com**
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitsri-analog&show_icons=true&locale=en" alt="harshitsri-analog" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitsri-analog&" alt="harshitsri-analog" /></p>
