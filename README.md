@@ -2,7 +2,7 @@
 
 🔧 Analog Design Engineer | Problem Solver | Innovator
 
-I’m passionate about designing high-performance analog circuits and turning complex ideas into robust and efficient solutions. With expertise in circuit design, simulation, and validation, I strive to push the boundaries of technology while maintaining precision and reliability.
+I’m passionate about designing & characterizing high-performance analog circuits and turning complex ideas into robust and efficient solutions. With expertise in circuit design, simulation, and validation, I strive to push the boundaries of technology while maintaining precision and reliability.
 
 🌟 What I Do:
 
