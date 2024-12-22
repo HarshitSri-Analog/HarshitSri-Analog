@@ -19,10 +19,13 @@ Passionate about designing high-performance analog circuits and turning complex 
 ## 📫 Let's Connect  
 **Email**: harshitsri117@gmail.com  
 
+**LinkedIn**: [Let's Connect & Grow Together!](https://www.linkedin.com/in/harshit-srivastava-3814a3205?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+**X(Formerly Twitter)**: [Follow Me!](https://x.com/HarshitSri43175?t=tgVNOHrC55wE7NwageU5YQ&s=09)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitsri-analog&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitsri-analog&show_icons=true&locale=en" alt="harshitsri-analog" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitsri-analog&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=harshitsri-analog&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile Views" />
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitsri-analog&;" alt="harshitsri-analog" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=harshitsri-analog&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
