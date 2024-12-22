@@ -19,7 +19,7 @@ Passionate about designing high-performance analog circuits and turning complex 
 ## 📫 Let's Connect  
 **Email**: harshitsri117@gmail.com  
 
-**LinkedIn**: [Let's Connect & Grow Together!](https://www.linkedin.com/in/harshit-srivastava-3814a3205?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+**LinkedIn**: [Let's Grow Together!](https://www.linkedin.com/in/harshit-srivastava-3814a3205?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 **X(Formerly Twitter)**: [Follow Me!](https://x.com/HarshitSri43175?t=tgVNOHrC55wE7NwageU5YQ&s=09)
 
