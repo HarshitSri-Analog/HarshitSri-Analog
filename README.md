@@ -1,36 +1,28 @@
-# 👋 Hi there! I'm Harshit Srivastava
+# 👋 Hi, I'm Harshit Srivastava  
 
-🔧 Analog Design Engineer | Problem Solver | Innovator
+🔧 **Analog Design Engineer | Problem Solver | Innovator**  
 
-I’m passionate about designing & characterizing high-performance analog circuits and turning complex ideas into robust and efficient solutions. With expertise in circuit design, simulation, and validation, I strive to push the boundaries of technology while maintaining precision and reliability.
+Passionate about designing high-performance analog circuits and turning complex ideas into efficient solutions. I specialize in circuit design, simulation, and validation to push technological boundaries with precision and reliability.  
 
-🌟 What I Do:
+## 🌟 Expertise  
+- **Analog/Mixed-Signal Circuit Design**  
+- **Power Management, Amplifiers, ADC/DAC**  
+- **Schematic Design & Layout** (Cadence Virtuoso)  
+- **Circuit Simulation & Analysis** (SPICE, Spectre)  
+- **Problem-Solving & Debugging**  
 
-Design and optimize analog/mixed-signal circuits.
-Simulate and analyze circuit performance to ensure real-world accuracy.
-Work on power management, amplifiers, ADC/DAC, and more.
+## 🚀 Beyond Work  
+- Exploring semiconductor advancements  
+- Mentoring aspiring engineers  
+- Sharing knowledge to inspire innovation  
 
-💡 What Drives Me:
+## 📫 Let's Connect  
+**Email**: harshitsri117@gmail.com  
 
-I love tackling challenging problems and collaborating with like-minded individuals to build innovative solutions. My focus is on creating designs that not only meet requirements but also inspire progress in the analog world.
-
-📚 Skills & Tools:
-
-Schematic Design & Layout (Cadence, Mentor Graphics)
-Circuit Simulation (SPICE, Spectre)
-Analog Design Techniques & Methodologies
-Problem-solving and debugging
-
-🚀 Beyond Work:
-
-When I’m not immersed in circuit schematics, I enjoy exploring advancements in semiconductor technology, mentoring aspiring engineers, and sharing my knowledge with the community.
-
-Let’s connect and collaborate on exciting projects that shape the future of analog design!
-
-📫 How to reach me: **harshitsri117@gmail.com**
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitsri-analog&show_icons=true&locale=en" alt="harshitsri-analog" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitsri-analog&" alt="harshitsri-analog" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitsri-analog&label=Profile%20views&color=0e75b6&style=flat" alt="harshitsri-analog" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitsri-analog&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitsri-analog&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=harshitsri-analog&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile Views" />
+</p>
