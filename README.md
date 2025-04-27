@@ -6,7 +6,7 @@ Passionate about designing high-performance analog circuits and turning complex 
 
 ## 🌟 Expertise  
 - **Analog/Mixed-Signal Circuit Design**  
-- **Power Management, Amplifiers, ADC/DAC**  
+- **CMOS/CML Logic design, Amplifiers, Band Gap Reference, LDO Regulators and PLL**  
 - **Schematic Design & Layout** (Cadence Virtuoso)  
 - **Circuit Simulation & Analysis** (SPICE, Spectre)  
 - **Problem-Solving & Debugging**  
